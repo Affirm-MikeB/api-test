@@ -1,8 +1,8 @@
 {
-    "url": "https://raw.githubusercontent.com/Affirm-MikeB/api-test/poc.yaml",
+    "url": "https://raw.githubusercontent.com/Affirm-MikeB/api-test/main/poc.yaml",
     "urls": [
         {
-            "url": "https://raw.githubusercontent.com/Affirm-MikeB/api-test/poc.yaml",
+            "url": "https://raw.githubusercontent.com/Affirm-MikeB/api-test/main/poc.yaml",
             "name": "Affirm AppSec Was Here"
         }
     ]
