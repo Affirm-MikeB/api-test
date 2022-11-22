@@ -1,9 +1,10 @@
 {
-    "url": "https://raw.githubusercontent.com/t3chnocat/testing-api/main/poc2.yaml",
+    "url": "https://raw.githubusercontent.com/Affirm-MikeB/api-test/poc.yaml",
     "urls": [
         {
-            "url": "https://raw.githubusercontent.com/t3chnocat/testing-api/main/poc2.yaml",
+            "url": "https://raw.githubusercontent.com/Affirm-MikeB/api-test/poc.yaml",
             "name": "Affirm AppSec Was Here"
         }
     ]
 }
+
