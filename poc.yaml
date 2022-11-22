@@ -5,7 +5,7 @@ info:
   title: Affirm AppSec Was Here
   version: '1.0'
 paths:
-  "/Appsec/test":
+  "\n://example.com/Affirm/Appsec/Was/Here":
     post:
       tags:
       - Test
